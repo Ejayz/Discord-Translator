@@ -21,37 +21,27 @@ module.exports = {
         })
     ,
     async execute(interaction) {
+        let result;
         const message = interaction.options.get('message').value;
-        console.log(interaction.options.get('to'));
-
+        interaction.deferReply({ ephemeral: true });
         if (interaction.options.get('to') !== null) {
             const toLang = interaction.options.get('to').value;
             if (checkLang(toLang)) {
+                result = await translation(message, toLang).catch(error => {
+                    console.log(error);
+                });
+                interaction.editReply({ content: result })
+                    .catch(error => console.error);
 
-                await translation(message, toLang).then(result => {
-                    console.log(result);
-                    interaction.reply({ content: result }).
-                        catch(error => console.error);
-                }).catch(error => {
-                    console.log(error);
-                });
             } else {
-                await translation(message, 'automatic').then(result => {
-                    console.log(result);
-                    interaction.reply({ content: result }).
-                        catch(error => console.error);
-                }).catch(error => {
-                    console.log(error);
-                });
+                result = await translation(message, 'automatic');
+                interaction.editReply({ content: result })
+                    .catch(error => console.error);
             }
         } else {
-            await translation(message, 'automatic').then(result => {
-                console.log(result);
-                interaction.reply({ content: result }).
-                    catch(error => console.error);
-            }).catch(error => {
-                console.log(error);
-            });
+            result = await translation(message, 'automatic');
+            interaction.editReply({ content: result })
+                .catch(error => console.error);
         }
 
 
