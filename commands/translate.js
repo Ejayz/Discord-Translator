@@ -30,17 +30,17 @@ module.exports = {
                 result = await translation(message, toLang).catch(error => {
                     console.log(error);
                 });
-                interaction.editReply({ content: result })
+                interaction.editReply({ content: result, ephemeral: true })
                     .catch(error => console.error);
 
             } else {
                 result = await translation(message, 'automatic');
-                interaction.editReply({ content: result })
+                interaction.editReply({ content: result, ephemeral: true })
                     .catch(error => console.error);
             }
         } else {
             result = await translation(message, 'automatic');
-            interaction.editReply({ content: result })
+            interaction.editReply({ content: result, ephemeral: true })
                 .catch(error => console.error);
         }
 
