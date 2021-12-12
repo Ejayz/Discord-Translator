@@ -4,11 +4,15 @@ const fs = require('fs');
 const token = process.env.bot_token;
 const { updateCommand } = require('./setGlobalCommand');
 
+//update the slash command list
 //updateCommand();
+
+
+
 const client = new Client(
     {
-        intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.DIRECT_MESSAGES],
-        partials: ['CHANNEL', 'MESSAGE', 'USER']
+        intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGE_REACTIONS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.DIRECT_MESSAGES],
+        partials: ['CHANNEL', 'MESSAGE', 'USER', 'REACTION']
     }
 );
 

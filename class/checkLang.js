@@ -72,6 +72,7 @@ const langs = {
     fa: 'Persian',
     pl: 'Polish',
     pt: 'Portuguese',
+    tl: 'Philippines',
     ma: 'Punjabi',
     ro: 'Romanian',
     ru: 'Russian',
@@ -107,5 +108,25 @@ const langs = {
 module.exports = {
     checkLang(lang) {
         return langs[lang];
+    },
+    async mentioncheckLang(lang) {
+        const promise = new Promise((resolve, reject) => {
+            const dataArray = JSON.stringify(langs).split(",");
+            for (let data of dataArray) {
+
+                if (data.toLowerCase().includes(lang)) {
+                    while (data.includes('"')) {
+                        data = data.replace('"', ' ');
+                    }
+                    const splited = data.split(" : ");
+                    let finalTo = splited[0].replace(" ", "");
+                    resolve(finalTo);
+                    break;
+                }
+
+            }
+            reject(false);
+        });
+        return promise;
     }
 }
