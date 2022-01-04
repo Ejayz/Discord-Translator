@@ -1,0 +1,190 @@
+Afghanistan:ps:Pashto
+Albania:sq:Albanian
+Algeria:ar:Arabic
+Andorra:ca:Catalan
+Angola:pt:Portuguese
+Antigua and Barbuda:en:English
+Argentina:es:Spanish
+Armenia:hy:Armenian
+Australia:en:English
+Austria:de:German
+Azerbaijan:az:Azerbaijani
+The Bahamas:en:English
+Bahrain:ar:Arabic
+Bangladesh:bn:Bengali
+Barbados:en:English
+Belarus:be:Belarusian
+Belgium:nl,fr,de.nl,fr,de.nl,fr,de:Dutch,French,German.Dutch,French,German.Dutch,French,German
+Belize:en:English
+Benin:fr:French
+Bhutan::
+Bolivia:es:Spanish
+Bosnia and Herzegovina:bs,hr,sr.bs,hr,sr.bs,hr,sr:Bosnian,Croatian,Serbian.Bosnian,Croatian,Serbian.Bosnian,Croatian,Serbian
+Botswana:en:English
+Brazil:pt:Portuguese
+Brunei:ms:Malay
+Bulgaria:bg:Bulgarian
+Burkina Faso:fr:French
+Burundi:fr:French
+Cambodia:km:Khmer
+Cameroon:en,fr.en,fr:English,French.English,French
+Canada:en,fr.en,fr:English,French.English,French
+Cape Verde:pt:Portuguese
+Central African Republic:fr:French
+Chad:ar,fr.ar,fr:Arabic,French.Arabic,French
+Chile:es:Spanish
+China:zh-cn:Chinese
+Colombia:es:Spanish
+Comoros:ar,fr.ar,fr:Arabic,French.Arabic,French
+Republic of the Congo:fr:French
+Democratic Republic of the Congo:fr,sw.fr,sw:French,Swahili.French,Swahili
+Costa Rica:es:Spanish
+C�te d'Ivoire:fr:French
+Croatia:hr:Croatian
+Cuba :es:Spanish
+Cyprus:el,tr.el,tr:Greek,Turkish.Greek,Turkish
+Czechia:cs:Czech
+Denmark:da:Danish
+Djibuti:ar,fr.ar,fr:Arabic,French.Arabic,French
+Dominica Republic:es:Spanish
+East Timor:pt:Portuguese
+Ecuador:es:Spanish
+Egypt:ar:Arabic
+El Salvador:es:Spanish
+Equatorial Guinea:es:Spanish
+Eritrea:ar:Arabic
+Estonia:et:Estonian
+Eswatini:en:English
+Ethiopia::
+Fiji:en,hi.en,hi:English,Hindi.English,Hindi
+Finland:fi,sv.fi,sv:Finnish,Swedish.Finnish,Swedish
+France:fr:French
+Gabon:fr:French
+The Gambia:en:English
+Georgia:ka:Georgian
+Germany:de:German
+Ghana:en:English
+Greece:el:Greek
+Grenada:en:English
+Guatemala:es:Spanish
+Guinea:fr:French
+Guyana:en:English
+Haiti:fr:French
+ Honduras:es:Spanish
+Hong Kong:en:English
+ Hungary:hu:Hungarian
+Iceland:is:Icelandic
+India:bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te:Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu
+Indonesia::
+Iran:fa:Persian
+Iraq:ar:Arabic
+Ireland:en,ga.en,ga:English,Irish.English,Irish
+Israel:ar,iw.ar,iw:Arabic,Hebrew.Arabic,Hebrew
+Italy:it:Italian
+Jamaica:en:English
+Japan:ja:Japanese
+Jordan:ar:Arabic
+Kazakhstan:kk,ru.kk,ru:Kazakh,Russian.Kazakh,Russian
+Kenya:en,sw.en,sw:English,Swahili.English,Swahili
+North Korea:ko:Korean
+South Korea:ko:Korean
+Kosovo:sq,sr.sq,sr:Albanian,Serbian.Albanian,Serbian
+Kuwait:ar:Arabic
+Kyrgyzstan:ky,ru.ky,ru:Kyrgyz,Russian.Kyrgyz,Russian
+Laos:lo:Lao
+Latvia::
+Lebanon:ar,fr.ar,fr:Arabic,French.Arabic,French
+Lesotho:en,st.en,st:English,Sesotho.English,Sesotho
+Libya:ar:Arabic
+Liechtenstein:de:German
+Lithuania:lt:Lithuanian
+Luxembourg:fr,de,lb.fr,de,lb.fr,de,lb:French,German,Luxembourgish.French,German,Luxembourgish.French,German,Luxembourgish
+Madagascar:fr,mg.fr,mg:French,Malagasy.French,Malagasy
+Malawi:ny,en.ny,en:Chichewa,English.Chichewa,English
+Malaysia:zh-cn,ms,ta.zh-cn,ms,ta.zh-cn,ms,ta:Chinese,Malay,Tamil.Chinese,Malay,Tamil.Chinese,Malay,Tamil
+Maldives::
+Mali:fr:French
+Malta:en,mt.en,mt:English,Maltese.English,Maltese
+Marshall Islands:en:English
+Mauritania:ar:Arabic
+Mauritius:en,fr.en,fr:English,French.English,French
+Mexico:es:Spanish
+Federated States of Micronesia:en:English
+Moldova:ro:Romanian
+Monaco:fr:French
+Mongolia::
+Montenegro::
+Morocco:ar:Arabic
+Mozambique:pt:Portuguese
+Myanmar:my:Burmese
+Namibia:af,de.af,de:Afrikaans,German.Afrikaans,German
+Nepal::
+The Netherlands:nl,fy.nl,fy:Dutch,Frisian.Dutch,Frisian
+New Zealand:en,mi.en,mi:English,Maori.English,Maori
+Nicaragua:es:Spanish
+Niger:fr:French
+Nigeria:en,ha,ig,yo.en,ha,ig,yo.en,ha,ig,yo.en,ha,ig,yo:English,Hausa,Igbo,Yoruba.English,Hausa,Igbo,Yoruba.English,Hausa,Igbo,Yoruba.English,Hausa,Igbo,Yoruba
+North Macedonia:mk:Macedonian
+Norway:no:Norwegian
+Oman:ar:Arabic
+Pakistan:en,ur.en,ur:English,Urdu.English,Urdu
+Palau:en:English
+Palestine:ar:Arabic
+Panama:es:Spanish
+Papua New Guinea:en:English
+Paraguay:es:Spanish
+Peru:es:Spanish
+Philippines:en,tl.en,tl:English,Filipino.English,Filipino
+Poland:pl:Polish
+Portugual:pt:Portuguese
+Qatar:ar:Arabic
+Romania:ro:Romanian
+Russia:ru:Russian
+Rwanda:en,fr,sw.en,fr,sw.en,fr,sw:English,French,Swahili.English,French,Swahili.English,French,Swahili
+Saint Kitts and Nevis:en:English
+Saint Lucia:en:English
+Saint Vincent and the Grenadines:en:English
+Samoa:en,sm.en,sm:English,Samoan.English,Samoan
+San Marino:it:Italian
+S�o Tom� and Principe:pt:Portuguese
+Saudi Arabia:ar:Arabic
+Senegal:fr:French
+Serbia:sr:Serbian
+Seychelles:en,fr.en,fr:English,French.English,French
+Sierra Leone:en:English
+Singapore:zh-cn,en,ms,ta.zh-cn,en,ms,ta.zh-cn,en,ms,ta.zh-cn,en,ms,ta:Chinese,English,Malay,Tamil.Chinese,English,Malay,Tamil.Chinese,English,Malay,Tamil.Chinese,English,Malay,Tamil
+Slovakia:sk:Slovak
+Slovenia::
+Solomon Islands::
+Somalia:ar,so.ar,so:Arabic,Somali.Arabic,Somali
+South Africa:af,en,zu.af,en,zu.af,en,zu:Afrikaans,English,Zulu.Afrikaans,English,Zulu.Afrikaans,English,Zulu
+South Sudan:en,sw.en,sw:English,Swahili.English,Swahili
+Spain:eu,ca,es.eu,ca,es.eu,ca,es:Basque,Catalan,Spanish.Basque,Catalan,Spanish.Basque,Catalan,Spanish
+Sri Lanka:si,ta.si,ta:Sinhala,Tamil.Sinhala,Tamil
+Sudan:ar:Arabic
+Sweden:sv:Swedish
+Switzerland:fr,de,it.fr,de,it.fr,de,it:French,German,Italian.French,German,Italian.French,German,Italian
+Syria:ar:Arabic
+Tajikistan:fa,tg.fa,tg:Persian,Tajik.Persian,Tajik
+Tanzania:en,sw.en,sw:English,Swahili.English,Swahili
+Thailand:th:Thai
+Togo:fr:French
+Tonga:en:English
+Trinidad and Tobago:en:English
+Tunisia:ar:Arabic
+Turkmenistan::
+Tuvalu:en:English
+Uganda:sw:Swahili
+Ukraine:uk:Ukrainian
+United Arab Emirates:ar:Arabic
+United Kingdom:en,ga,cy.en,ga,cy.en,ga,cy:English,Irish,Welsh.English,Irish,Welsh.English,Irish,Welsh
+United States:en,es.en,es:English,Spanish.English,Spanish
+Uruguay:es:Spanish
+Uzbekistan:uz:Uzbek
+Vanuatu:fr:French
+Vatican City:it,la.it,la:Italian,Latin.Italian,Latin
+Venezuela:es:Spanish
+Vietnam:vi:Vietnamese
+Yemen:ar:Arabic
+Zambia:en:English
+Zimbabwe:en,sn.en,sn:English,Shona.English,Shona

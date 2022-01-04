@@ -1,13 +1,24 @@
-//Loop through each character of the text
-let text = '🇵🇭';
-for (let i = 0; i < text.length; i++) {
-    //Check if the character is a emoji
-    if (text.charCodeAt(i) >= 255)
-        //Check if the character is 🇦 or between 🇿 
-        if (text.codePointAt(i) >= 127462 && text.codePointAt(i) <= 127487)
-            //Set the text equal to text with the emoji replaced as a lowercase letter equivalent
-            text =
-                text.substring(0, i) +
-                String.fromCodePoint(text.codePointAt(i) - 127365) +
-                text.substring(i + 2);
+const fs = require('fs');
+
+const data = fs.readFileSync('./cond.txt').toString();
+let v2 = data.split("\r\n");
+
+
+
+
+
+for (let i = 0; i < v2.length; i++) {
+
+    let splitd = v2[i].split(":");
+    let langCodev2 = splitd[1].split(".")[0];
+    let langv2 = splitd[2].split(".")[0];
+
+    splitd[2] = langv2;
+    splitd[1] = langCodev2
+
+    let finalData = splitd[0] + ":" + splitd[1] + ":" + splitd[2] + ":" + splitd[3];
+    fs.appendFile("./real.txt", finalData + "\r\n", (error) => {
+        console.log(error);
+    });
+
 }

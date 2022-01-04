@@ -1,0 +1,190 @@
+Afghanistan:Dari, Pashto
+Albania:Albanian
+Algeria:Arabic, Berber
+Andorra:Catalan
+Angola:Kongo, Portuguese
+Antigua and Barbuda:English
+Argentina:Spanish
+Armenia:Armenian
+Australia:English
+Austria:German
+Azerbaijan:Azerbaijani
+The Bahamas:English
+Bahrain:Arabic, Berber
+Bangladesh:Bengali
+Barbados:English
+Belarus:Belarusian
+Belgium:Dutch, French, German
+Belize:English
+Benin:French
+Bhutan:Dzongkha
+Bolivia:Aymara, Guaran�, Quechua, Spanish
+Bosnia and Herzegovina:Bosnian, Serbian, Croatian
+Botswana:English, Tswana
+Brazil:Portuguese
+Brunei:Malay
+Bulgaria:Bulgarian
+Burkina Faso:French
+Burundi:French, Kirundi
+Cambodia:Khmer
+Cameroon:English, French
+Canada:English, French
+Cape Verde:Portuguese
+Central African Republic:French, sango
+Chad:Arabic, French
+Chile:Spanish
+China:Chinese
+Colombia:Spanish
+Comoros:Arabic, French, Shikomor
+Republic of the Congo:French, Lingala
+Democratic Republic of the Congo:French, Lingala, Swahili
+Costa Rica:Spanish
+C�te d'Ivoire:French
+Croatia:Croatian
+Cuba :Spanish
+Cyprus:Greek, Turkish
+Czechia:Czech
+Denmark:Danish
+Djibuti:Arabic, French
+Dominica Republic:Spanish
+East Timor:Portuguese, Tetum
+Ecuador:Spanish
+Egypt:Arabic
+El Salvador:Spanish
+Equatorial Guinea:Spanish
+Eritrea:Arabic, Tigrinya
+Estonia:Estonian
+Eswatini:English, Swazi
+Ethiopia:Amharic
+Fiji:English, Fijian, Fiji Hindi
+Finland:Finnish, Swedish
+France:French
+Gabon:French
+The Gambia:English
+Georgia:Georgian
+Germany:German
+Ghana:Akan, English, Ewe, Twi
+Greece:Greek
+Grenada:English
+Guatemala:Spanish
+Guinea:French, Manika, Pular
+Guyana:English
+Haiti:French, Haitian Creole
+ Honduras:Spanish
+Hong Kong:English, Cantonese
+ Hungary:Hungarian
+Iceland:Icelandic
+India:Assamese, Bengali, English, Hindi, Kannada, Konkai, Malayalam, Marthi, Nepalese, Oriya, Punjabi,Sanskrit, Tamil, Telugu
+Indonesia:Bahasa Indonesia
+Iran:Persian
+Iraq:Arabic, Kurdish
+Ireland:English, Irish
+Israel:Arabic, Hebrew
+Italy:Italian
+Jamaica:English
+Japan:Japanese
+Jordan:Arabic
+Kazakhstan:Kazakh, Russian
+Kenya:English, Swahili
+North Korea:Korean
+South Korea:Korean
+Kosovo:Albanian, Serbian
+Kuwait:Arabic
+Kyrgyzstan:Kyrgyz, Russian
+Laos:Lao
+Latvia:Latvia
+Lebanon:Arabic, French
+Lesotho:English, Sesotho
+Libya:Berber, Arabic
+Liechtenstein:German
+Lithuania:Lithuanian
+Luxembourg:French, German, Luxembourgish
+Madagascar:French, Malagasy
+Malawi:Chichewa, English
+Malaysia:Mandarin Chinese, Malay, Tamil
+Maldives:Dhivehi
+Mali:Bambara, French
+Malta:English, Maltese
+Marshall Islands:English, Marshallese
+Mauritania:Arabic, Berer
+Mauritius:English, French, Mauritian Creole
+Mexico:Nahuatl, Spanish
+Federated States of Micronesia:English
+Moldova:Romanian
+Monaco:French, Mon�gasque
+Mongolia:Mongolia
+Montenegro:Montenegrin
+Morocco:Arabic, Berber
+Mozambique:Portuguese
+Myanmar:Burmese
+Namibia:Afrikaans, Engish, Damara, German, Herero
+Nepal:Davanagari, Nepalese
+The Netherlands:Dutch, West Frisian
+New Zealand:English, Maori
+Nicaragua:Spanish
+Niger:French
+Nigeria:English, Hausa, Igbo, Yoruba
+North Macedonia:Macedonian
+Norway:Norwegian
+Oman:Arabic
+Pakistan:English, Urdu
+Palau:English, Palauan
+Palestine:Arabic
+Panama:Spanish
+Papua New Guinea:English, Hiri Motu, Tok Pisin
+Paraguay:Guaran�, Spanish
+Peru:Aymara, Spanish
+Philippines:English, Filipino
+Poland:Polish
+Portugual:Portuguese
+Qatar:Arabic
+Romania:Romanian
+Russia:Russian
+Rwanda:English, French, Kinyarwanda, Swahili
+Saint Kitts and Nevis:English
+Saint Lucia:English
+Saint Vincent and the Grenadines:English
+Samoa:English, Samoan
+San Marino:Italian
+S�o Tom� and Principe:Portuguese
+Saudi Arabia:Arabic
+Senegal:French
+Serbia:Serbian
+Seychelles:English, French, Seychellois Creole
+Sierra Leone:English
+Singapore:English, Malay, Mandarin Chinese, Tamil
+Slovakia:Slovak
+Slovenia:Slovene
+Solomon Islands:Englih, Neo-Solomonic
+Somalia:Arabic, Somali
+South Africa:Afrikaans, English, isiZulu, isiXhoas, Pedi, Sotho, Tswana, Venda, Tsonga, Swazi, Ndebele
+South Sudan:English, Dinka, Swahili
+Spain:Spanish, Catalan, Basque
+Sri Lanka:Sinhala, Tamil
+Sudan:Arabic
+Sweden:Swedish
+Switzerland:French, German, Italian, Romansh
+Syria:Arabic
+Tajikistan:Tajiki-Persian
+Tanzania:English, Swahili
+Thailand:Thai
+Togo:Ewe, French, Kabiye
+Tonga:English, Tongan
+Trinidad and Tobago:English
+Tunisia:Arabic,Berber
+Turkmenistan:Turkmen
+Tuvalu:English, Tuvaluan
+Uganda:Enlish, Swahili
+Ukraine:Ukrainian
+United Arab Emirates:Arabic
+United Kingdom:English, Welsh, Scots, Irish
+United States:English, Spanish
+Uruguay:Spanish
+Uzbekistan:Uzbek
+Vanuatu:French
+Vatican City:Italian, latin
+Venezuela:Spanish
+Vietnam:Vietnamese
+Yemen:Arabic
+Zambia:Bemba, Chewa, English
+Zimbabwe:English, Shona

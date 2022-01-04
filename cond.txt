@@ -1,0 +1,190 @@
+Afghanistan:ps:Pashto:AF
+Albania:sq:Albanian:AL
+Algeria:ar:Arabic:DZ
+Andorra:ca:Catalan:AD
+Angola:pt:Portuguese:AO
+Antigua and Barbuda:en:English
+Argentina:es:Spanish:AR
+Armenia:hy:Armenian:AM
+Australia:en:English:AU
+Austria:de:German:AT
+Azerbaijan:az:Azerbaijani:AZ
+The Bahamas:en:English
+Bahrain:ar:Arabic:BH
+Bangladesh:bn:Bengali:BD
+Barbados:en:English:BB
+Belarus:be:Belarusian:BY
+Belgium:nl,fr,de.nl,fr,de.nl,fr,de:Dutch,French,German.Dutch,French,German.Dutch,French,German:BE
+Belize:en:English:BZ
+Benin:fr:French:BJ
+Bhutan:::BT
+Bolivia:es:Spanish:BO
+Bosnia and Herzegovina:bs,hr,sr.bs,hr,sr.bs,hr,sr:Bosnian,Croatian,Serbian.Bosnian,Croatian,Serbian.Bosnian,Croatian,Serbian
+Botswana:en:English:BW
+Brazil:pt:Portuguese:BR
+Brunei:ms:Malay:BN
+Bulgaria:bg:Bulgarian:BG
+Burkina Faso:fr:French:BF
+Burundi:fr:French:BI
+Cambodia:km:Khmer:KH
+Cameroon:en,fr.en,fr:English,French.English,French:CM
+Canada:en,fr.en,fr:English,French.English,French:CA
+Cape Verde:pt:Portuguese:CV
+Central African Republic:fr:French:CF
+Chad:ar,fr.ar,fr:Arabic,French.Arabic,French:TD
+Chile:es:Spanish:CL
+China:zh-cn:Chinese:CN:HK:MO
+Colombia:es:Spanish:CO
+Comoros:ar,fr.ar,fr:Arabic,French.Arabic,French:KM
+Republic of the Congo:fr:French
+Democratic Republic of the Congo:fr,sw.fr,sw:French,Swahili.French,Swahili
+Costa Rica:es:Spanish:CR
+C�te d'Ivoire:fr:French
+Croatia:hr:Croatian:HR
+Cuba :es:Spanish
+Cyprus:el,tr.el,tr:Greek,Turkish.Greek,Turkish:CY
+Czechia:cs:Czech:CZ
+Denmark:da:Danish:DK
+Djibuti:ar,fr.ar,fr:Arabic,French.Arabic,French
+Dominica Republic:es:Spanish
+East Timor:pt:Portuguese
+Ecuador:es:Spanish:EC
+Egypt:ar:Arabic:EG
+El Salvador:es:Spanish:SV
+Equatorial Guinea:es:Spanish:GQ
+Eritrea:ar:Arabic:ER
+Estonia:et:Estonian:EE
+Eswatini:en:English
+Ethiopia:::ET
+Fiji:en,hi.en,hi:English,Hindi.English,Hindi:FJ
+Finland:fi,sv.fi,sv:Finnish,Swedish.Finnish,Swedish:FI
+France:fr:French:FR
+Gabon:fr:French:GA
+The Gambia:en:English
+Georgia:ka:Georgian:GE:GS
+Germany:de:German:DE
+Ghana:en:English:GH
+Greece:el:Greek:GR
+Grenada:en:English:GD
+Guatemala:es:Spanish:GT
+Guinea:fr:French:GN:GW:PG
+Guyana:en:English:GY
+Haiti:fr:French:HT
+ Honduras:es:Spanish
+Hong Kong:en:English
+ Hungary:hu:Hungarian
+Iceland:is:Icelandic:IS
+India:bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te.bn,en,hi,kn,ms,ml,ma,ta,te:Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu.Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu:IN:IO
+Indonesia:::ID
+Iran:fa:Persian:IR
+Iraq:ar:Arabic:IQ
+Ireland:en,ga.en,ga:English,Irish.English,Irish:IE
+Israel:ar,iw.ar,iw:Arabic,Hebrew.Arabic,Hebrew:IL
+Italy:it:Italian:IT
+Jamaica:en:English:JM
+Japan:ja:Japanese:JP
+Jordan:ar:Arabic:JO
+Kazakhstan:kk,ru.kk,ru:Kazakh,Russian.Kazakh,Russian:KZ
+Kenya:en,sw.en,sw:English,Swahili.English,Swahili:KE
+North Korea:ko:Korean:KP
+South Korea:ko:Korean:KR
+Kosovo:sq,sr.sq,sr:Albanian,Serbian.Albanian,Serbian:XK
+Kuwait:ar:Arabic:KW
+Kyrgyzstan:ky,ru.ky,ru:Kyrgyz,Russian.Kyrgyz,Russian:KG
+Laos:lo:Lao:LA
+Latvia:::LV
+Lebanon:ar,fr.ar,fr:Arabic,French.Arabic,French:LB
+Lesotho:en,st.en,st:English,Sesotho.English,Sesotho:LS
+Libya:ar:Arabic:LY
+Liechtenstein:de:German:LI
+Lithuania:lt:Lithuanian:LT
+Luxembourg:fr,de,lb.fr,de,lb.fr,de,lb:French,German,Luxembourgish.French,German,Luxembourgish.French,German,Luxembourgish:LU
+Madagascar:fr,mg.fr,mg:French,Malagasy.French,Malagasy:MG
+Malawi:ny,en.ny,en:Chichewa,English.Chichewa,English:MW
+Malaysia:zh-cn,ms,ta.zh-cn,ms,ta.zh-cn,ms,ta:Chinese,Malay,Tamil.Chinese,Malay,Tamil.Chinese,Malay,Tamil:MY
+Maldives:::MV
+Mali:fr:French:ML:SO
+Malta:en,mt.en,mt:English,Maltese.English,Maltese:MT
+Marshall Islands:en:English:MH
+Mauritania:ar:Arabic:MR
+Mauritius:en,fr.en,fr:English,French.English,French:MU
+Mexico:es:Spanish:MX
+Federated States of Micronesia:en:English
+Moldova:ro:Romanian:MD
+Monaco:fr:French:MC
+Mongolia:::MN
+Montenegro:::ME
+Morocco:ar:Arabic:MA
+Mozambique:pt:Portuguese:MZ
+Myanmar:my:Burmese:MM
+Namibia:af,de.af,de:Afrikaans,German.Afrikaans,German:NA
+Nepal:::NP
+The Netherlands:nl,fy.nl,fy:Dutch,Frisian.Dutch,Frisian
+New Zealand:en,mi.en,mi:English,Maori.English,Maori:NZ
+Nicaragua:es:Spanish:NI
+Niger:fr:French:NE:NG
+Nigeria:en,ha,ig,yo.en,ha,ig,yo.en,ha,ig,yo.en,ha,ig,yo:English,Hausa,Igbo,Yoruba.English,Hausa,Igbo,Yoruba.English,Hausa,Igbo,Yoruba.English,Hausa,Igbo,Yoruba
+North Macedonia:mk:Macedonian
+Norway:no:Norwegian:NO
+Oman:ar:Arabic:OM:RO
+Pakistan:en,ur.en,ur:English,Urdu.English,Urdu:PK
+Palau:en:English:PW
+Palestine:ar:Arabic
+Panama:es:Spanish:PA
+Papua New Guinea:en:English
+Paraguay:es:Spanish:PY
+Peru:es:Spanish:PE
+Philippines:en,tl.en,tl:English,Filipino.English,Filipino:PH
+Poland:pl:Polish:PL
+Portugual:pt:Portuguese
+Qatar:ar:Arabic:QA
+Romania:ro:Romanian
+Russia:ru:Russian:RU
+Rwanda:en,fr,sw.en,fr,sw.en,fr,sw:English,French,Swahili.English,French,Swahili.English,French,Swahili:RW
+Saint Kitts and Nevis:en:English
+Saint Lucia:en:English
+Saint Vincent and the Grenadines:en:English
+Samoa:en,sm.en,sm:English,Samoan.English,Samoan:AS:WS
+San Marino:it:Italian:SM
+S�o Tom� and Principe:pt:Portuguese
+Saudi Arabia:ar:Arabic:SA
+Senegal:fr:French:SN
+Serbia:sr:Serbian:RS
+Seychelles:en,fr.en,fr:English,French.English,French:SC
+Sierra Leone:en:English:SL
+Singapore:zh-cn,en,ms,ta.zh-cn,en,ms,ta.zh-cn,en,ms,ta.zh-cn,en,ms,ta:Chinese,English,Malay,Tamil.Chinese,English,Malay,Tamil.Chinese,English,Malay,Tamil.Chinese,English,Malay,Tamil:SG
+Slovakia:sk:Slovak:SK
+Slovenia:::SI
+Solomon Islands:::SB
+Somalia:ar,so.ar,so:Arabic,Somali.Arabic,Somali
+South Africa:af,en,zu.af,en,zu.af,en,zu:Afrikaans,English,Zulu.Afrikaans,English,Zulu.Afrikaans,English,Zulu:ZA
+South Sudan:en,sw.en,sw:English,Swahili.English,Swahili:SS
+Spain:eu,ca,es.eu,ca,es.eu,ca,es:Basque,Catalan,Spanish.Basque,Catalan,Spanish.Basque,Catalan,Spanish:ES
+Sri Lanka:si,ta.si,ta:Sinhala,Tamil.Sinhala,Tamil:LK
+Sudan:ar:Arabic:SD
+Sweden:sv:Swedish:SE
+Switzerland:fr,de,it.fr,de,it.fr,de,it:French,German,Italian.French,German,Italian.French,German,Italian:CH
+Syria:ar:Arabic:SY
+Tajikistan:fa,tg.fa,tg:Persian,Tajik.Persian,Tajik:TJ
+Tanzania:en,sw.en,sw:English,Swahili.English,Swahili:TZ
+Thailand:th:Thai:TH
+Togo:fr:French:TG
+Tonga:en:English:TO
+Trinidad and Tobago:en:English
+Tunisia:ar:Arabic:TN
+Turkmenistan:::TM
+Tuvalu:en:English:TV
+Uganda:sw:Swahili:UG
+Ukraine:uk:Ukrainian:UA
+United Arab Emirates:ar:Arabic:AE
+United Kingdom:en,ga,cy.en,ga,cy.en,ga,cy:English,Irish,Welsh.English,Irish,Welsh.English,Irish,Welsh:GB
+United States:en,es.en,es:English,Spanish.English,Spanish:US
+Uruguay:es:Spanish:UY
+Uzbekistan:uz:Uzbek:UZ
+Vanuatu:fr:French:VU
+Vatican City:it,la.it,la:Italian,Latin.Italian,Latin:VA
+Venezuela:es:Spanish:VE
+Vietnam:vi:Vietnamese:VN
+Yemen:ar:Arabic:YE
+Zambia:en:English:ZM
+Zimbabwe:en,sn.en,sn:English,Shona.English,Shona:ZW

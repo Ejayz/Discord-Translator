@@ -1,0 +1,190 @@
+Afghanistan:ps:Pashto:AF
+Albania:sq:Albanian:AL
+Algeria:ar:Arabic:DZ
+Andorra:ca:Catalan:AD
+Angola:pt:Portuguese:AO
+Antigua and Barbuda:en:English:undefined
+Argentina:es:Spanish:AR
+Armenia:hy:Armenian:AM
+Australia:en:English:AU
+Austria:de:German:AT
+Azerbaijan:az:Azerbaijani:AZ
+The Bahamas:en:English:undefined
+Bahrain:ar:Arabic:BH
+Bangladesh:bn:Bengali:BD
+Barbados:en:English:BB
+Belarus:be:Belarusian:BY
+Belgium:nl,fr,de:Dutch,French,German:BE
+Belize:en:English:BZ
+Benin:fr:French:BJ
+Bhutan:::BT
+Bolivia:es:Spanish:BO
+Bosnia and Herzegovina:bs,hr,sr:Bosnian,Croatian,Serbian:undefined
+Botswana:en:English:BW
+Brazil:pt:Portuguese:BR
+Brunei:ms:Malay:BN
+Bulgaria:bg:Bulgarian:BG
+Burkina Faso:fr:French:BF
+Burundi:fr:French:BI
+Cambodia:km:Khmer:KH
+Cameroon:en,fr:English,French:CM
+Canada:en,fr:English,French:CA
+Cape Verde:pt:Portuguese:CV
+Central African Republic:fr:French:CF
+Chad:ar,fr:Arabic,French:TD
+Chile:es:Spanish:CL
+China:zh-cn:Chinese:CN
+Colombia:es:Spanish:CO
+Comoros:ar,fr:Arabic,French:KM
+Republic of the Congo:fr:French:undefined
+Democratic Republic of the Congo:fr,sw:French,Swahili:undefined
+Costa Rica:es:Spanish:CR
+C�te d'Ivoire:fr:French:undefined
+Croatia:hr:Croatian:HR
+Denmark:da:Danish:DK
+Cuba :es:Spanish:undefined
+Djibuti:ar,fr:Arabic,French:undefined
+Dominica Republic:es:Spanish:undefined
+Cyprus:el,tr:Greek,Turkish:CY
+East Timor:pt:Portuguese:undefined
+Czechia:cs:Czech:CZ
+Ecuador:es:Spanish:EC
+Egypt:ar:Arabic:EG
+El Salvador:es:Spanish:SV
+Equatorial Guinea:es:Spanish:GQ
+Eritrea:ar:Arabic:ER
+Estonia:et:Estonian:EE
+Eswatini:en:English:undefined
+Ethiopia:::ET
+Fiji:en,hi:English,Hindi:FJ
+Finland:fi,sv:Finnish,Swedish:FI
+France:fr:French:FR
+Gabon:fr:French:GA
+The Gambia:en:English:undefined
+Georgia:ka:Georgian:GE
+Germany:de:German:DE
+Ghana:en:English:GH
+Greece:el:Greek:GR
+Grenada:en:English:GD
+Guatemala:es:Spanish:GT
+Guinea:fr:French:GN
+Guyana:en:English:GY
+Haiti:fr:French:HT
+ Honduras:es:Spanish:undefined
+Hong Kong:en:English:undefined
+ Hungary:hu:Hungarian:undefined
+Iceland:is:Icelandic:IS
+India:bn,en,hi,kn,ms,ml,ma,ta,te:Bengali,English,Hindi,Kannada,Malay,Malayalam,Punjabi,Tamil,Telugu:IN
+Indonesia:::ID
+Iran:fa:Persian:IR
+Iraq:ar:Arabic:IQ
+Ireland:en,ga:English,Irish:IE
+Israel:ar,iw:Arabic,Hebrew:IL
+Italy:it:Italian:IT
+Jamaica:en:English:JM
+Japan:ja:Japanese:JP
+Jordan:ar:Arabic:JO
+Kazakhstan:kk,ru:Kazakh,Russian:KZ
+Kenya:en,sw:English,Swahili:KE
+North Korea:ko:Korean:KP
+South Korea:ko:Korean:KR
+Kosovo:sq,sr:Albanian,Serbian:XK
+Kuwait:ar:Arabic:KW
+Kyrgyzstan:ky,ru:Kyrgyz,Russian:KG
+Laos:lo:Lao:LA
+Latvia:::LV
+Lebanon:ar,fr:Arabic,French:LB
+Lesotho:en,st:English,Sesotho:LS
+Libya:ar:Arabic:LY
+Liechtenstein:de:German:LI
+Lithuania:lt:Lithuanian:LT
+Luxembourg:fr,de,lb:French,German,Luxembourgish:LU
+Madagascar:fr,mg:French,Malagasy:MG
+Malawi:ny,en:Chichewa,English:MW
+Malaysia:zh-cn,ms,ta:Chinese,Malay,Tamil:MY
+Maldives:::MV
+Mali:fr:French:ML
+Malta:en,mt:English,Maltese:MT
+Marshall Islands:en:English:MH
+Mauritania:ar:Arabic:MR
+Mauritius:en,fr:English,French:MU
+Mexico:es:Spanish:MX
+Federated States of Micronesia:en:English:undefined
+Moldova:ro:Romanian:MD
+Monaco:fr:French:MC
+Mongolia:::MN
+Montenegro:::ME
+Morocco:ar:Arabic:MA
+Mozambique:pt:Portuguese:MZ
+Myanmar:my:Burmese:MM
+Namibia:af,de:Afrikaans,German:NA
+Nepal:::NP
+The Netherlands:nl,fy:Dutch,Frisian:undefined
+New Zealand:en,mi:English,Maori:NZ
+Nicaragua:es:Spanish:NI
+Niger:fr:French:NE
+Nigeria:en,ha,ig,yo:English,Hausa,Igbo,Yoruba:undefined
+North Macedonia:mk:Macedonian:undefined
+Norway:no:Norwegian:NO
+Oman:ar:Arabic:OM
+Pakistan:en,ur:English,Urdu:PK
+Palau:en:English:PW
+Palestine:ar:Arabic:undefined
+Panama:es:Spanish:PA
+Papua New Guinea:en:English:undefined
+Paraguay:es:Spanish:PY
+Peru:es:Spanish:PE
+Philippines:en,tl:English,Filipino:PH
+Poland:pl:Polish:PL
+Portugual:pt:Portuguese:undefined
+Qatar:ar:Arabic:QA
+Romania:ro:Romanian:undefined
+Russia:ru:Russian:RU
+Rwanda:en,fr,sw:English,French,Swahili:RW
+Saint Kitts and Nevis:en:English:undefined
+Saint Lucia:en:English:undefined
+Saint Vincent and the Grenadines:en:English:undefined
+Samoa:en,sm:English,Samoan:AS
+San Marino:it:Italian:SM
+S�o Tom� and Principe:pt:Portuguese:undefined
+Saudi Arabia:ar:Arabic:SA
+Senegal:fr:French:SN
+Serbia:sr:Serbian:RS
+Seychelles:en,fr:English,French:SC
+Sierra Leone:en:English:SL
+Singapore:zh-cn,en,ms,ta:Chinese,English,Malay,Tamil:SG
+Slovakia:sk:Slovak:SK
+Slovenia:::SI
+Solomon Islands:::SB
+Somalia:ar,so:Arabic,Somali:undefined
+South Africa:af,en,zu:Afrikaans,English,Zulu:ZA
+South Sudan:en,sw:English,Swahili:SS
+Spain:eu,ca,es:Basque,Catalan,Spanish:ES
+Sri Lanka:si,ta:Sinhala,Tamil:LK
+Sudan:ar:Arabic:SD
+Sweden:sv:Swedish:SE
+Switzerland:fr,de,it:French,German,Italian:CH
+Syria:ar:Arabic:SY
+Tajikistan:fa,tg:Persian,Tajik:TJ
+Tanzania:en,sw:English,Swahili:TZ
+Thailand:th:Thai:TH
+Togo:fr:French:TG
+Tonga:en:English:TO
+Trinidad and Tobago:en:English:undefined
+Tunisia:ar:Arabic:TN
+Turkmenistan:::TM
+Tuvalu:en:English:TV
+Uganda:sw:Swahili:UG
+Ukraine:uk:Ukrainian:UA
+United Arab Emirates:ar:Arabic:AE
+United Kingdom:en,ga,cy:English,Irish,Welsh:GB
+United States:en,es:English,Spanish:US
+Uruguay:es:Spanish:UY
+Uzbekistan:uz:Uzbek:UZ
+Vanuatu:fr:French:VU
+Vatican City:it,la:Italian,Latin:VA
+Venezuela:es:Spanish:VE
+Vietnam:vi:Vietnamese:VN
+Yemen:ar:Arabic:YE
+Zambia:en:English:ZM
+Zimbabwe:en,sn:English,Shona:ZW
